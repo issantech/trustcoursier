@@ -1,0 +1,55 @@
+body {
+ 
+}
+
+.mainview{
+    background-image: url("/assets/img/trust-bg.jpg");
+    background-size: cover;
+    height: 700px;
+}
+
+.Main-logo {
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+h1.head-title {
+  font-size: 3em;
+  color: white;
+  padding-left: 30px;
+  padding-top: 160px;
+  font-weight: 300;
+}
+
+.main-sub{
+    font-weight: 400;
+}
+
+.space{
+    height: 05em;
+}
+
+
+.mini-caller.text-center h3{
+font-weight: 300;
+}
+
+
+div.tc-style{
+    padding-left: 05em;
+}
+
+footer{
+    background-color: black;
+}
+
+.callto{
+    color: black;
+    text-decoration: none;
+}
+
+
+.callto:hover{
+    color: black;
+    text-decoration: none;
+}
